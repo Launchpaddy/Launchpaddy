@@ -1,5 +1,5 @@
-### Good to meet you, I'm Trevik 👋  
-## Software Engineer, and life long fabricator  
+## Good to meet you, I'm Trevik 👋  
+### Software Engineer, and life long fabricator  
 
 
 
