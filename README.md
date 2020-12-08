@@ -3,7 +3,7 @@
   
 I am glad that you found me and hope you find what you are looking for. I grew up in a small town in Southern Idaho and I started working young building mechanical bulls. All of my life I have been creating things. From bulls, fully automatic paintball guns, houses, to websites.   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/launchpaddy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=launchpaddy)](https://github.com/launchpaddy/github-readme-stats)
 
 
 
