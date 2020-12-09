@@ -7,7 +7,7 @@ I am glad that you found me and hope you find what you are looking for. I grew u
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Trevik_Peterson-blue)](https://www.linkedin.com/in/trevik-peterson/)
 [![GitHub](https://img.shields.io/badge/FreeCodeCamp-Launchpaddy-red)](https://www.freecodecamp.org/trevik-peterson)
 [![GitHub](https://img.shields.io/badge/repl.it-Launchpaddy-white)](https://repl.it/@Launchpaddy)
-[![GitHub](https://img.shields.io/badge/PetersonPups-Puppies-orange)](http://petersonpups.herokuapp.com/)
+[![GitHub](https://img.shields.io/badge/Website-PetersonPups-orange)](http://petersonpups.herokuapp.com/)
 [![GitHub](https://img.shields.io/badge/Handshake-Trevik_peterson-purple)](https://app.joinhandshake.com/users/12597339)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Launchpaddy&theme=radical)](https://github.com/Launchpaddy/github-readme-stats)
