@@ -1,4 +1,4 @@
-## Good to meet you, I'm Trevik 👋  
+## Good to meet you! I'm Trevik 👋  
 ### Software Engineer, and life-long creator    
   
 I am glad that you found me and hope you find what you are looking for. I grew up in a small town in Southern Idaho and I started working young building mechanical bulls. All of my life I have been creating things. From bulls, fully automatic paintball guns, houses, to websites.   
